@@ -1,0 +1,31 @@
+PHP is a general purpose scripting language geared towards web development.
+- Integrated server-side language
+- Can be written alongside HTML within PHP tags <?php ?>
+- Often used with relational databases such as MySQL
+- Relatively easy language to learn
+
+How PHP works?
+- Browser sends a request to the server
+- PHP Code is processed
+- Server sends HTML back to the browser
+
+PHP cannot be ran by itself it needs web server like apache or nginx
+
+PHP is often used with LAMP(Linux apache mysql php) stack
+Tools such as XAMPP(Cross platform, apache, mysql, php, perl) & MAMP give you everything you need to develop PHP
+websites and apps on your local machine including a MySQL database.
+
+When ready, you setup your prod server on a web host such as Lincode.
+
+Two reasons to learn PHP:
+- Wordpress
+- Laravel
+
+- Wordpress: Content management system for creating websites that users
+can manage on their own
+
+- Laravel: Extremely powerful and full-featured web framework for creating
+applications and APIs of any size.
+
+XAMPP is the most popular PHP development environment.
+XAMPP -> Apache + MariaDB + PHP + Perl
